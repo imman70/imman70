@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**imman70/imman70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
